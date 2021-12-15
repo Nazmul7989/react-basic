@@ -1,0 +1,11 @@
+$color: white;
+$bg-color: green;
+$margin: 50px;
+$padding: 30px;
+
+.textStyle{
+  color: $color;
+  background-color: $bg-color;
+  margin: $margin;
+  padding: $padding;
+}
